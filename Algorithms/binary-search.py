@@ -18,6 +18,8 @@ def binary_search():
 
         else:
             return middle
+        
+    return None
                 
 print(binary_search())
         
